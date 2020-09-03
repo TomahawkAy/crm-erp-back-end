@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/prisma-crm.iml" filepath="$PROJECT_DIR$/prisma-crm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prisma-crm-ear/prisma-crm-ear.iml" filepath="$PROJECT_DIR$/prisma-crm-ear/prisma-crm-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prisma-crm-ejb/prisma-crm-ejb.iml" filepath="$PROJECT_DIR$/prisma-crm-ejb/prisma-crm-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prisma-crm-web/prisma-crm-web.iml" filepath="$PROJECT_DIR$/prisma-crm-web/prisma-crm-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="prisma-crm-ejb:ejb exploded">
+    <output-path>$PROJECT_DIR$/prisma-crm-ejb/target/prisma-crm-ejb</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>prisma-crm-ejb</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="prisma-crm-ejb/ejb/EJB" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/prisma-crm-ejb/target/prisma-crm-ejb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="prisma-crm-ejb" />
+    </root>
+  </artifact>
+</component>

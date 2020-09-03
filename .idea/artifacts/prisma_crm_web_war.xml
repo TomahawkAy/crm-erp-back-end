@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="prisma-crm-web:war">
+    <output-path>$PROJECT_DIR$/prisma-crm-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>prisma-crm-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="prisma-crm-web.war">
+      <element id="artifact" artifact-name="prisma-crm-web:war exploded" />
+    </root>
+  </artifact>
+</component>

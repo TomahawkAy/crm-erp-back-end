@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="prisma-crm-ejb:ejb">
+    <output-path>$PROJECT_DIR$/prisma-crm-ejb/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>prisma-crm-ejb</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="prisma-crm-ejb.jar">
+      <element id="artifact" artifact-name="prisma-crm-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>

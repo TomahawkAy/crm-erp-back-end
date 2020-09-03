@@ -1,0 +1,11 @@
+/.settings/
+/.project
+**/target/*
+/target/
+target/
+
+/prisma-crm-ear/target/m2e-wtp/ear-resources/META-INF/maven/prisma/prisma-crm-ear/pom.properties
+/prisma-crm-ear/target/m2e-wtp/ear-resources/META-INF/application.xml
+/prisma-crm-ear/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+/prisma-crm-web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+/prisma-crm-web/target/m2e-wtp/web-resources/META-INF/maven/prisma/prisma-crm-web/pom.properties

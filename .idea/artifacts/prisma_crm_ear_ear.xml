@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="prisma-crm-ear:ear">
+    <output-path>$PROJECT_DIR$/prisma-crm-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>prisma-crm-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="prisma-crm-ear.ear">
+      <element id="artifact" artifact-name="prisma-crm-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>
